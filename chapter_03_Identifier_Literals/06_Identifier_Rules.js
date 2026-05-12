@@ -1,18 +1,18 @@
-var $=10;
-var _s=12;
-var p=10;
+var $ = 10;
+var _s = 12;
+var p = 10;
 
-var ab123 =34;
+var ab123 = 34;
 
 //var 123=123; //invalid
 
-var Name="Olive"; //valid but not recommended
-var name="Olive"; //valid and recommended
+var Name = "Olive"; //valid but not recommended
+var name = "Olive"; //valid and recommended
 
 //var olive getsy="Hello"; //invalid
-var olive_getsy="Hello"; //valid and recommended
-var olive$getsy="Hello"; //valid but not recommended
-var olivegetsy="Hello"; //valid but not recommended
+var olive_getsy = "Hello"; //valid and recommended
+var olive$getsy = "Hello"; //valid but not recommended
+var olivegetsy = "Hello"; //valid but not recommended
 
 // Additional examples for all identifier rules
 

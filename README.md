@@ -7,6 +7,7 @@ This repository contains JavaScript learning material and examples for automatio
 - `chapter_01_Basics/` - Basic JavaScript examples and introductory scripts.
 - `chapter_02_Javascript_Concepts/` - JavaScript concepts with examples on basics, identifiers, and naming rules.
 - `chapter_03_Identifier_Literals/` - Identifier and literal examples, comments, and VS Code shortcut documentation.
+- `chapter_04_Javascript_Concepts/` - Advanced JavaScript concepts including variables (var, let, const), functions, scoping, and hoisting.
 
 ## Notes
 
