@@ -8,6 +8,9 @@ This repository contains JavaScript learning material and examples for automatio
 - `chapter_02_Javascript_Concepts/` - JavaScript concepts with examples on basics, identifiers, and naming rules.
 - `chapter_03_Identifier_Literals/` - Identifier and literal examples, comments, and VS Code shortcut documentation.
 - `chapter_04_Javascript_Concepts/` - Advanced JavaScript concepts including variables (var, let, const), functions, scoping, and hoisting.
+- `chapter_05_Literal/` - Literals in JavaScript covering null, undefined, template literals, strings, numbers, and backtick syntax.
+- `chapter_06_double_triple_equal/` - Operators including arithmetic, comparison (== vs ===), logical, ternary, typeof, nullish, and increment/decrement operators.
+- `Daily Task Folder/` - Daily practice exercises (e.g., setTimeout examples).
 
 ## Notes
 
