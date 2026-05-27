@@ -10,6 +10,7 @@ This repository contains JavaScript learning material and examples for automatio
 - `chapter_04_Javascript_Concepts/` - Advanced JavaScript concepts including variables (var, let, const), functions, scoping, and hoisting.
 - `chapter_05_Literal/` - Literals in JavaScript covering null, undefined, template literals, strings, numbers, and backtick syntax.
 - `chapter_06_double_triple_equal/` - Operators including arithmetic, comparison (== vs ===), logical, ternary, typeof, nullish, and increment/decrement operators.
+- `chapter_11_Array/` - Arrays in JavaScript covering creation, access, modification, adding/removing elements, searching, iteration, and transformations (map, filter, etc.).
 - `Daily Task Folder/` - Daily practice exercises (e.g., setTimeout examples).
 
 ## Notes
