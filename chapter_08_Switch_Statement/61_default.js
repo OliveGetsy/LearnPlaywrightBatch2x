@@ -1,4 +1,4 @@
-let day = 2;
+let day = 10;
 //1 -Mon, 2- Tue, 3- Wed
 switch (day) {
     case 1:
