@@ -10,7 +10,10 @@ This repository contains JavaScript learning material and examples for automatio
 - `chapter_04_Javascript_Concepts/` - Advanced JavaScript concepts including variables (var, let, const), functions, scoping, and hoisting.
 - `chapter_05_Literal/` - Literals in JavaScript covering null, undefined, template literals, strings, numbers, and backtick syntax.
 - `chapter_06_double_triple_equal/` - Operators including arithmetic, comparison (== vs ===), logical, ternary, typeof, nullish, and increment/decrement operators.
+- `chapter_07_if&else/` - Conditional statements: if/else, else-if, real-world API examples, odd/even, student grades, leap year, health reporter, and login attempt scenarios.
+- `chapter_08_Switch_Statement/` - Switch statement examples for multiple conditional branching.
 - `chapter_11_Array/` - Arrays in JavaScript covering creation, access, modification, adding/removing elements, searching, iteration, and transformations (map, filter, etc.).
+- `chapter_12_Functions/` - Functions in JavaScript covering function types, parameters, return values, and function basics.
 - `Daily Task Folder/` - Daily practice exercises (e.g., setTimeout examples).
 
 ## Notes
