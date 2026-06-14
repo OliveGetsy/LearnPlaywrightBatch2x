@@ -14,7 +14,7 @@ This repository contains JavaScript learning material and examples for automatio
 - `chapter_08_Switch_Statement/` - Switch statement examples for multiple conditional branching.
 - `chapter_09_User_Input/` - User input handling examples in JavaScript.
 - `chapter_11_Array/` - Arrays in JavaScript covering creation, access, modification, adding/removing elements, searching, iteration, and transformations (map, filter, etc.).
-- `chapter_12_Functions/` - Functions in JavaScript covering function types, parameters, return values, and function basics.
+- `chapter_12_Functions/` - Functions in JavaScript covering function types with/without parameters and return values, function expressions, arrow functions, and template returns.
 - `Daily Task Folder/` - Daily practice exercises (e.g., setTimeout examples).
 
 ## Notes

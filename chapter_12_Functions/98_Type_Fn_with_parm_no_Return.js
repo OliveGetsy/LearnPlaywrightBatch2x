@@ -9,7 +9,11 @@ Output : Nothing returned
 Action : Prints greeting
 "Olive" ->greet(name)->Print Hello John->End
 */
-let result = greet("Tom");
+function greetByName(name) {
+    console.log("Hi", name);
+}
+greetByName("Olive");
+let result = greetByName("Augustin");
 console.log(result);
 
 function beggar(money) {

@@ -1,0 +1,10 @@
+# opencode config
+opencode.json
+
+# Environment / secrets
+.env
+.env.*
+*.local
+
+# Node
+node_modules/
